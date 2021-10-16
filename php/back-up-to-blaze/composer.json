@@ -9,6 +9,7 @@
         }
     ],
     "require": {
-        "appwrite/appwrite": "2.1.*"
+        "appwrite/appwrite": "2.1.*",
+        "gliterd/backblaze-b2": "1.5.*"
     }
 }
