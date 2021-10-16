@@ -1,0 +1,14 @@
+{
+    "name": "demos-for-functions/back-up-to-blaze",
+    "description": "A sample PHP Cloud Function for backup file to Backblaze",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Muhideen Mujeeb Adeoye",
+            "email": "mujeeb.muhideen@gmail.com"
+        }
+    ],
+    "require": {
+        "appwrite/appwrite": "2.1.*"
+    }
+}
