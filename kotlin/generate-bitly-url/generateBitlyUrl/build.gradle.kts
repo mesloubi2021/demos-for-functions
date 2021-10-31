@@ -11,6 +11,7 @@ repositories {
 
 dependencies {
     implementation(kotlin("stdlib"))
+    implementation("com.konghq:unirest-java:3.11.10")
 }
 tasks.withType<Jar>() {
     manifest {
