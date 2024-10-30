@@ -1,0 +1,9 @@
+{
+  "AppConfig": {
+    "AppwriteEndpoint": "http://localhost/v1",
+		"AppwriteProjectId": "your-project-id",
+		"AppwriteAPIKey": "your-api-key",
+		"FileId": "your-file-id",
+		"DropboxAPIKey": "your-dropbox-api-key"
+  }
+}
