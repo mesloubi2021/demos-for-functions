@@ -1,0 +1,26 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    appwrite (2.4.1)
+    cloudmersive-image-recognition-api-client (2.0.5)
+      json (~> 2.1, >= 2.1.0)
+      typhoeus (~> 1.0, >= 1.0.1)
+    ethon (0.15.0)
+      ffi (>= 1.15.0)
+    ffi (1.15.4)
+    json (2.6.1)
+    typhoeus (1.4.0)
+      ethon (>= 0.9.0)
+
+PLATFORMS
+  x86_64-darwin-20
+
+DEPENDENCIES
+  appwrite
+  cloudmersive-image-recognition-api-client
+
+RUBY VERSION
+   ruby 3.0.1p64
+
+BUNDLED WITH
+   2.2.15
