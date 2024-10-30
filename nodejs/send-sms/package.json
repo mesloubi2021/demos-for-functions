@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "twilio": "^3.68.0"
+    "twilio": "^5.3.5"
   }
 }
