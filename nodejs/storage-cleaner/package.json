@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-appwrite": "^2.2.3"
+    "node-appwrite": "^2.5.0"
   }
 }
